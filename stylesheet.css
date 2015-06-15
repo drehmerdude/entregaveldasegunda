@@ -26,21 +26,23 @@ div {
     padding: 20px 0px 20px 10px;
 }
 
+.right {
+    border: 2px dashed black;
+    /*Essa borda eh soh pra demarcar mesmo:
+            REMOVER NO FINAL!*/
+    position: relative;
+    float: left;
+    width: auto;
+    background-color: lightgray;
+    font-size: 0.85em;
+}
+
 #footer { 
     border-bottom-left-radius: 7px;
     border-bottom-right-radius: 7px;
     clear: both;
     text-align: center;
     
-}
-
-.right {
-    border: 2px dashed black;
-    /*Essa borda eh soh pra demarcar mesmo:
-            REMOVER NO FINAL!*/
-    font-size: em;
-    position: relative;
-    float: left;
 }
 
 #perfil {
