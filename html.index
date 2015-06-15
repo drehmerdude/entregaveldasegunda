@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link type="text/css" rel="stylesheet" href="stylesheet.css"/>
+		<title></title>
+	</head>
+	<body>
+	    <div id="header"><p>(Carlos Eduardo Heimerdinger Drehmer)</p></div>
+	    <div class="left">
+	        <p>Isquierda</p>
+	    </div>
+	    <div class="right">
+	        <h3>Currículo</h3>
+	        <img id="perfil" src="http://pudim.com.br/SiteBuilder/UploadUsers/pudim.com.br/pudim.jpg"/>
+	        <p>Testículo</p>
+	    
+	    </div>
+	    
+	    
+	    <div id="footer"><p>Joelho e Pé</p></div>
+	    
+	</body>
+</html>
